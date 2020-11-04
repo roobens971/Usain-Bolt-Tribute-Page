@@ -1,6 +1,6 @@
 This a Usain Bolt Tribute page
 
-It makes up the first part of my coding.
+It makes up the first part of my coding portfolio.
 
 You can find this project live at this following URL:
 
